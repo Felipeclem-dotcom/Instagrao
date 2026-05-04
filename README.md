@@ -24,15 +24,17 @@ Projeto desenvolvido com **React + Vite**, com o objetivo de praticar desenvolvi
 
 ### Feed
 
-![Preview 2](./src/assets/print2.png)
+![Preview 2](Downloads/foto.png)
 
 ---
+### Video
 
+![Preview 2](Downloads/video.mp4)
 ```
 
 ---
 
-## 📌 Objetivo
+ Objetivo
 
 Este projeto foi desenvolvido para:
 
@@ -42,6 +44,6 @@ Este projeto foi desenvolvido para:
 
 ---
 
-## 👨‍💻 Autor
+ Autor
 
 Feito por Felipe Clementino
