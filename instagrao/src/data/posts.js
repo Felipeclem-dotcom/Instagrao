@@ -1,0 +1,38 @@
+export const posts = [
+  {
+    user: "Tazer Craft",
+    avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFt8zQRo-92-e9O3oopTZBAP4lIalA27wXDg&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrozjH4CfQO9m16DfqGcvLAm_k7m4TSqKcbw&s",
+    caption: "Já fazem 10 anos...",
+    likes: "31,1 mil",
+    comments: "1,2 mil",
+    time: "6 h",
+  },
+  {
+    user: "bi3l",
+    avatar: "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=200&auto=format&fit=crop",
+    image: "https://pt.quizur.com/_image?href=https%3A%2F%2Fimg.quizur.com%2Ff%2Fimg62119ed283ed92.38387690.png%3FlastEdited%3D1645321956&w=400&h=400&f=webp",
+    caption: "HG prime era muito bommm",
+    likes: "42,7 mil",
+    comments: "2,4 mil",
+    time: "8 h",
+  },
+  {
+    user: "Updates_Minecraft",
+    avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnt4quo4Q_kW7n7X0un0wq8bVVLdcJNoh8Q&s",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Ga8liTfHJknIX_qHuQIHGeLlrlOG6xFSQ&s",
+    caption: "Os novos mobs filhotes estão incriveis",
+    likes: "16,5 mil",
+    comments: "390",
+    time: "12 h",
+  },
+  {
+    user: "Memes todo dia",
+    avatar: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F055%2F728%2Fbaby-covering-mouth.jpg&f=1&nofb=1&ipt=04213168a31f2b6a529f5cc14df463ec443d0b036f6341d1adca23cdfc99c580",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4HXN0SNdhBJC4OOnWsf2yX6ycYKiUNdxW1A&s",
+    caption: "Qual o nome desse gato?",
+    likes: "55,2 mil",
+    comments: "3,1 mil",
+    time: "1 d",
+  },
+];
