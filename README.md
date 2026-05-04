@@ -20,20 +20,6 @@ Projeto desenvolvido com **React + Vite**, com o objetivo de praticar desenvolvi
 
 ---
 
-## Preview do projeto
-
-### Feed
-
-![Preview 2](Downloads/foto.png)
-
----
-### Video
-
-![Preview 2](Downloads/video.mp4)
-```
-
----
-
  Objetivo
 
 Este projeto foi desenvolvido para:
